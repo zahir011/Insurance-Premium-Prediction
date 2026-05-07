@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+myenv/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Docker
+*.tar
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
