@@ -39,7 +39,7 @@ Notable packages:
 app.py
 streamlit_app.py
 requirements.txt
-dockerfile
+Dockerfile
 model/
   ├── model.pkl
   └── predict.py
@@ -179,3 +179,7 @@ Then access the API at `http://localhost:8000`.
 - Add a README section describing the model training process if you want to make this repo more complete.
 - Add tests for the API and prediction pipeline for production reliability.
 - Add a `requirements-dev.txt` for development-only dependencies.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
